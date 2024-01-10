@@ -1,0 +1,26 @@
+main > .container {
+    padding: 60px 15px 0;
+}
+
+.question {
+    height: 220px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.questions-avatar {
+    height: 2px;
+    width: 2px;
+}
+
+.question-avatar > img {
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.question-text {
+    margin-bottom: 5%;
+}
